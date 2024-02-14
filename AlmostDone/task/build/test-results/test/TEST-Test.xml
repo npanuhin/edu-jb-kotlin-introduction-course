@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="88" skipped="0" failures="0" errors="0" timestamp="2024-02-18T11:17:44" hostname="LAPTOP-PANUHIN" time="1.352">
+  <properties/>
+  <testcase name="testTrimPictureFunction()" classname="Test" time="0.737"/>
+  <testcase name="[1] simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.076"/>
+  <testcase name="[2] simba&#13;&#10;simba&#13;&#10;, false, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.003"/>
+  <testcase name="[3] simba1&#13;&#10;simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.004"/>
+  <testcase name="[1] SPONGE_BOB" classname="Test" time="0.029"/>
+  <testcase name="[2] SIMBA" classname="Test" time="0.003"/>
+  <testcase name="[3] BRIAN_GRIFFIN" classname="Test" time="0.004"/>
+  <testcase name="[4] CAT" classname="Test" time="0.003"/>
+  <testcase name="[5] PIG" classname="Test" time="0.003"/>
+  <testcase name="[6] FOX" classname="Test" time="0.005"/>
+  <testcase name="[7] MONKEY" classname="Test" time="0.005"/>
+  <testcase name="[8] ELEPHANT" classname="Test" time="0.004"/>
+  <testcase name="[9] ANDROID" classname="Test" time="0.003"/>
+  <testcase name="[10] APPLE" classname="Test" time="0.002"/>
+  <testcase name="[11] CUSTOM" classname="Test" time="0.002"/>
+  <testcase name="testChoosePictureFunction()" classname="Test" time="0.002"/>
+  <testcase name="testChooseFilterFunction()" classname="Test" time="0.006"/>
+  <testcase name="testGetPictureFunction()" classname="Test" time="0.005"/>
+  <testcase name="[1] SPONGE_BOB" classname="Test" time="0.005"/>
+  <testcase name="[2] SIMBA" classname="Test" time="0.004"/>
+  <testcase name="[3] BRIAN_GRIFFIN" classname="Test" time="0.004"/>
+  <testcase name="[4] CAT" classname="Test" time="0.002"/>
+  <testcase name="[5] PIG" classname="Test" time="0.002"/>
+  <testcase name="[6] FOX" classname="Test" time="0.002"/>
+  <testcase name="[7] MONKEY" classname="Test" time="0.005"/>
+  <testcase name="[8] ELEPHANT" classname="Test" time="0.004"/>
+  <testcase name="[9] ANDROID" classname="Test" time="0.004"/>
+  <testcase name="[10] APPLE" classname="Test" time="0.004"/>
+  <testcase name="[11] CUSTOM" classname="Test" time="0.002"/>
+  <testcase name="testApplyBordersFilterFunction()" classname="Test" time="0.006"/>
+  <testcase name="[1] SPONGE_BOB" classname="Test" time="0.002"/>
+  <testcase name="[2] SIMBA" classname="Test" time="0.002"/>
+  <testcase name="[3] BRIAN_GRIFFIN" classname="Test" time="0.006"/>
+  <testcase name="[4] CAT" classname="Test" time="0.003"/>
+  <testcase name="[5] PIG" classname="Test" time="0.003"/>
+  <testcase name="[6] FOX" classname="Test" time="0.001"/>
+  <testcase name="[7] MONKEY" classname="Test" time="0.001"/>
+  <testcase name="[8] ELEPHANT" classname="Test" time="0.001"/>
+  <testcase name="[9] ANDROID" classname="Test" time="0.001"/>
+  <testcase name="[10] APPLE" classname="Test" time="0.001"/>
+  <testcase name="[11] CUSTOM" classname="Test" time="0.001"/>
+  <testcase name="[1] yes&#13;&#10;simba&#13;&#10;borders&#13;&#10;, ###################&#10;# ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈ #&#10;# ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈ #&#10;# ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈ #&#10;# ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈ #&#10;# ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈ #&#10;# ┈┈▕╲▂┊╰━━┻━╱┈┈┈ #&#10;# ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈ #&#10;###################" classname="Test" time="0.005"/>
+  <testcase name="[2] yes&#13;&#10;simba&#13;&#10;squared&#13;&#10;, ######################################&#10;# ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈ ## ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈ #&#10;# ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈ ## ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈ #&#10;# ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈ ## ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈ #&#10;# ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈ ## ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈ #&#10;# ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈ ## ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈ #&#10;# ┈┈▕╲▂┊╰━━┻━╱┈┈┈ ## ┈┈▕╲▂┊╰━━┻━╱┈┈┈ #&#10;# ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈ ## ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈ #&#10;######################################&#10;# ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈ ## ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈ #&#10;# ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈ ## ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈ #&#10;# ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈ ## ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈ #&#10;# ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈ ## ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈ #&#10;# ┈┈…" classname="Test" time="0.002"/>
+  <testcase name="[3] no&#13;&#10;^_^&#13;&#10;borders&#13;&#10;, #######&#10;# ^_^ #&#10;#######" classname="Test" time="0.004"/>
+  <testcase name="[4] no&#13;&#10;^_^&#13;&#10;squared&#13;&#10;, ##############&#10;# ^_^ ## ^_^ #&#10;##############&#10;# ^_^ ## ^_^ #&#10;##############" classname="Test" time="0.004"/>
+  <testcase name="[1] yes&#13;&#10;simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.001"/>
+  <testcase name="[2] yes&#13;&#10;simba&#13;&#10;simba&#13;&#10;, false, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.001"/>
+  <testcase name="[3] yes&#13;&#10;simba1&#13;&#10;simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.003"/>
+  <testcase name="[4] yess&#13;&#10;yes&#13;&#10;simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.004"/>
+  <testcase name="[5] yess&#13;&#10;yes&#13;&#10;simba&#13;&#10;simba&#13;&#10;, false, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.003"/>
+  <testcase name="[6] yess&#13;&#10;yes&#13;&#10;simba1&#13;&#10;simba&#13;&#10;, true, &#10;    ┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈&#10;    ▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈&#10;    ▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈&#10;    ┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈&#10;    ┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈&#10;    ┈┈▕╲▂┊╰━━┻━╱┈┈┈&#10;    ┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈&#10;" classname="Test" time="0.001"/>
+  <testcase name="[7] no&#13;&#10;^_^&#13;&#10;, true, ^_^" classname="Test" time="0.002"/>
+  <testcase name="[8] no&#13;&#10;^_^&#13;&#10;^_^&#13;&#10;, false, ^_^" classname="Test" time="0.003"/>
+  <testcase name="[9] yess&#13;&#10;no&#13;&#10;^_^&#13;&#10;, true, ^_^" classname="Test" time="0.004"/>
+  <testcase name="[10] yess&#13;&#10;no&#13;&#10;^_^&#13;&#10;^_^&#13;&#10;, false, ^_^" classname="Test" time="0.003"/>
+  <testcase name="testApplySquaredFilterFunction()" classname="Test" time="0.004"/>
+  <testcase name="[1] SPONGE_BOB" classname="Test" time="0.001"/>
+  <testcase name="[2] SIMBA" classname="Test" time="0.001"/>
+  <testcase name="[3] BRIAN_GRIFFIN" classname="Test" time="0.001"/>
+  <testcase name="[4] CAT" classname="Test" time="0.001"/>
+  <testcase name="[5] PIG" classname="Test" time="0.001"/>
+  <testcase name="[6] FOX" classname="Test" time="0.003"/>
+  <testcase name="[7] MONKEY" classname="Test" time="0.001"/>
+  <testcase name="[8] ELEPHANT" classname="Test" time="0.001"/>
+  <testcase name="[9] ANDROID" classname="Test" time="0.004"/>
+  <testcase name="[10] APPLE" classname="Test" time="0.004"/>
+  <testcase name="[11] CUSTOM" classname="Test" time="0.002"/>
+  <testcase name="[1] SPONGE_BOB" classname="Test" time="0.002"/>
+  <testcase name="[2] SIMBA" classname="Test" time="0.001"/>
+  <testcase name="[3] BRIAN_GRIFFIN" classname="Test" time="0.001"/>
+  <testcase name="[4] CAT" classname="Test" time="0.001"/>
+  <testcase name="[5] PIG" classname="Test" time="0.001"/>
+  <testcase name="[6] FOX" classname="Test" time="0.004"/>
+  <testcase name="[7] MONKEY" classname="Test" time="0.0"/>
+  <testcase name="[8] ELEPHANT" classname="Test" time="0.001"/>
+  <testcase name="[9] ANDROID" classname="Test" time="0.001"/>
+  <testcase name="[10] APPLE" classname="Test" time="0.001"/>
+  <testcase name="[11] CUSTOM" classname="Test" time="0.0"/>
+  <testcase name="[1] borders&#13;&#10;, true, borders" classname="Test" time="0.004"/>
+  <testcase name="[2] borders&#13;&#10;borders&#13;&#10;, false, borders" classname="Test" time="0.003"/>
+  <testcase name="[3] squared&#13;&#10;, true, squared" classname="Test" time="0.001"/>
+  <testcase name="[4] squared&#13;&#10;squared&#13;&#10;, false, squared" classname="Test" time="0.001"/>
+  <testcase name="[5] squared1&#13;&#10;squared&#13;&#10;, true, squared" classname="Test" time="0.001"/>
+  <testcase name="[6] borders1&#13;&#10;borders&#13;&#10;, true, borders" classname="Test" time="0.001"/>
+  <testcase name="testPhotoshopFunction()" classname="Test" time="0.002"/>
+  <testcase name="testSafeReadLineFunction()" classname="Test" time="0.009"/>
+  <testcase name="testApplyFilterFunction()" classname="Test" time="0.001"/>
+  <testcase name="testSafeReadLineFunctionImplementation()" classname="Test" time="0.001"/>
+  <system-out><![CDATA[Please choose a picture. The possible options are: [spongeBob, simba, brianGriffin, cat, pig, fox, monkey, elephant, android, apple]
+Please choose a picture. The possible options are: [spongeBob, simba, brianGriffin, cat, pig, fox, monkey, elephant, android, apple]
+Please choose a picture. The possible options are: [spongeBob, simba, brianGriffin, cat, pig, fox, monkey, elephant, android, apple]
+Please choose a picture. The possible options are: [spongeBob, simba, brianGriffin, cat, pig, fox, monkey, elephant, android, apple]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
